@@ -1,3 +1,6 @@
+#SPA creada con react para uso de rutas publcas y privadas
+Permite que un usuario sin autenticacion no ingrese a la aplicaion y tambien que uno ya autenticado no pueda volver al Login sin hacer un logout
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
